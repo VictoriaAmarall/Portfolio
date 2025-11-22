@@ -47,3 +47,6 @@ The footer contains:
 - Copyright information
 - Quick links to social media
 - A "Back to Top" button for easy navigation
+
+## 📌 Prototype
+https://www.figma.com/design/CHs7YVxokFQ7txKxEU1zol/portfolio?node-id=0-1&t=0UVpim0aBfxRdWAj-1
