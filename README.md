@@ -14,9 +14,9 @@ It highlights my journey, professional interests, and what motivates me to keep 
 ## 🛠️ Skills
 A dedicated section to present my technical and creative abilities.  
 Some examples include:
-- Programming Languages: JavaScript, Python, C++
-- Web Development: HTML, CSS, Js
-- Tools & Platforms: Git, GitHub, VS Code
+- Programming Languages: JavaScript
+- Web Development: HTML, CSS
+- Tools & Platforms: Git, GitHub, VS Code, BootStrap
 - Design: Figma
 
 ---
