@@ -129,6 +129,7 @@ nav > a{
     font-size: clamp(16px, 2vw, 25px);
     text-align: center;
 }
+
 .btn-2 > button {
     border: none;
     background-color: transparent;
